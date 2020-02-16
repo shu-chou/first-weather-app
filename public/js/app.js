@@ -1,5 +1,3 @@
-console.log('This is a server side scritp');
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const msgOne = document.querySelector('#msg-1');
